@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "@capacitor/camera": "5.0.7",
-    "@capacitor/filesystem": "5.0.5",
-    "@capacitor/storage": "1.2.5",
-    "@nuxtjs/ionic": "latest",
+    "@capacitor/filesystem": "5.1.4",
+    "@capacitor/preferences": "5.0.6",
+    "@nuxtjs/ionic": "workspace:^",
     "nuxt": "3.6.5"
   }
 }
