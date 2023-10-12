@@ -8,7 +8,6 @@ overrides:
   '@nuxtjs/ionic': link:.
   '@nuxt/kit': 3.6.5
   '@nuxt/schema': 3.6.5
-  consola: ^3.0.0
 
 importers:
 
